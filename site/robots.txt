@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ops.ledgendaryanimal.top/sitemap.xml
